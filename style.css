@@ -1,0 +1,42 @@
+body {
+    font-family: Arial;
+    padding: 20px;
+}
+
+header {
+    background: #222;
+    color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+a{
+    color:aqua;
+    display: flex;
+    align-items: center;
+}
+
+.form {
+    margin-top: 20px;
+}
+
+input {
+    margin: 5px;
+    padding: 8px;
+    width: 300px;
+}
+
+button {
+    padding: 8px 12px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#blogCard {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin-top: 20px;
+    background: #f9f9f9;
+}
